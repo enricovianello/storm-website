@@ -1,0 +1,6 @@
+exclude: [README.md, _bin, run-jekyll.sh]
+
+gems:
+  - jekyll-redirect-from
+
+baseurl: /test
